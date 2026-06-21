@@ -1,0 +1,87 @@
+.navbar-brand h4{
+    font-size: 45px;
+    font-weight: 700;
+
+}
+.li1{
+    color: #f3d511e5;
+}
+.li2{
+    color: rgb(15, 184, 6);
+}
+.loc{
+    margin-left: 50px;
+    margin-right: 50px;
+     font-family: "Rubik", sans-serif;
+
+}
+.loc h5{
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.loc p{
+    font-size: 13px;
+}
+.form-control{
+    width: 730px;
+    border-radius: 40px;
+}
+.btn{
+    width: 130px;
+    border-radius: 40px;
+    margin-left: 10px;
+}
+.imagex{
+    width: 100%;
+    height: 100%;
+    padding-bottom: 10px;
+}
+.card-img1{
+    width: 100%;
+    height: 100%;
+}
+.card-img2{
+    border:none;
+     width: 100%;
+    height: 100%;
+
+}.card-img3{
+     width: 100%;
+    height: 100%;
+
+}
+.card-body{
+   padding-top: 0px;
+}
+.card-text{
+    text-align: center;
+    font-weight: 400;
+}
+.card-img-top{
+    width: 93%;
+    height: 90%;
+    border-radius: 10px;
+    margin: 0px auto;
+}
+
+.price-tag button{
+    width: 70px;
+    height: 35px;
+    border-radius: 10px;
+    margin-top: 20px;
+    
+   background-color: transparent;
+   color:rgba(4, 45, 180, 0.721);
+   font-weight: 600;
+   border: 1px solid rgba(4, 45, 180, 0.721);
+
+}
+.price-tag button:hover{
+    background-color: rgba(4, 45, 180, 0.721);
+    color:white;
+}
+.card-title{
+    font-size: 14px;
+    margin-top: 5px;
+}
